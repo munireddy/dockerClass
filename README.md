@@ -2,6 +2,7 @@
 How to use this code:
 
 Step 1: Clone the repo.
+
 Step 2: cd dockerClass/nginxDocker
 
 Step 3: To build the docker image :  sudo docker build -t <reponame>/nginx:latest  .
